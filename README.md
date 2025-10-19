@@ -13,7 +13,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32C2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Generative+AI+Enthusiast;AWS+Certified+Cloud+Practitioner;Building+Chatbots+%26+AI+Apps;Learning+CI%2FCD+%26+Cloud+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32C2F7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Generative+AI+Enthusiast;Microsoft+Certified+;Building+Chatbots+%26+AI+Apps;Learning+CI%2FCD+%26+Cloud+Automation" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/pravallikapilla" target="_blank">
+  <a href="https://www.linkedin.com/in/santhosh-Reddy-Allu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Santhoshallu1432@gmail.com">
