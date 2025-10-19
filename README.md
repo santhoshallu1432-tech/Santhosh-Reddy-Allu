@@ -1,4 +1,4 @@
-# Santhosh-Reddy-Allu
+
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Santhosh Reddy Allu!</h1>
 <h3 align="center">💻 AI-Driven DATA ANALYST | SQL • Python • R | Power BI • Tableau | AWS • Azure • GCP | Snowflake • BigQuery | Cloud & Predictive Analytics Expert | Turning Data into Actionable Insights</h3>
