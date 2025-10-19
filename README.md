@@ -20,7 +20,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,aws,gcp,mysql,mongodb,selenium,git,vscode,lambda&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,sql,aws,Microsoft Power BI,Tableau,Looker,gcp,mysql,mongodb,selenium,git,,lambda&perline=6" />
 </p>
 
 ---
